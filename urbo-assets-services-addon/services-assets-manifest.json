@@ -1,0 +1,146 @@
+[
+  {
+    "name": "olivers-website-desktop",
+    "large": {
+      "path": "images/services/olivers-website-desktop-large.webp",
+      "width": 1500,
+      "height": 938,
+      "bytes": 94772
+    },
+    "small": {
+      "path": "images/services/olivers-website-desktop-small.webp",
+      "width": 900,
+      "height": 563,
+      "bytes": 49346
+    },
+    "alt": "Oliver's Coffee Bar website displayed on a laptop"
+  },
+  {
+    "name": "olivers-website-mobile",
+    "large": {
+      "path": "images/services/olivers-website-mobile-large.webp",
+      "width": 700,
+      "height": 1515,
+      "bytes": 91798
+    },
+    "small": {
+      "path": "images/services/olivers-website-mobile-small.webp",
+      "width": 420,
+      "height": 909,
+      "bytes": 44286
+    },
+    "alt": "The complete Oliver's Coffee Bar mobile website screenshot displayed on an iPhone"
+  },
+  {
+    "name": "unicorn-workplace-portrait",
+    "large": {
+      "path": "images/services/unicorn-workplace-portrait-large.webp",
+      "width": 800,
+      "height": 1200,
+      "bytes": 46980
+    },
+    "small": {
+      "path": "images/services/unicorn-workplace-portrait-small.webp",
+      "width": 480,
+      "height": 720,
+      "bytes": 22748
+    },
+    "alt": "Professional workplace portrait"
+  },
+  {
+    "name": "unicorn-process-photography",
+    "large": {
+      "path": "images/services/unicorn-process-photography-large.webp",
+      "width": 800,
+      "height": 1200,
+      "bytes": 53760
+    },
+    "small": {
+      "path": "images/services/unicorn-process-photography-small.webp",
+      "width": 480,
+      "height": 720,
+      "bytes": 27678
+    },
+    "alt": "Professional process photography"
+  },
+  {
+    "name": "unicorn-location-photography",
+    "large": {
+      "path": "images/services/unicorn-location-photography-large.webp",
+      "width": 800,
+      "height": 1200,
+      "bytes": 99434
+    },
+    "small": {
+      "path": "images/services/unicorn-location-photography-small.webp",
+      "width": 480,
+      "height": 720,
+      "bytes": 43446
+    },
+    "alt": "Professional business location photography"
+  },
+  {
+    "name": "unicorn-brand-detail",
+    "large": {
+      "path": "images/services/unicorn-brand-detail-large.webp",
+      "width": 1250,
+      "height": 833,
+      "bytes": 38426
+    },
+    "small": {
+      "path": "images/services/unicorn-brand-detail-small.webp",
+      "width": 750,
+      "height": 500,
+      "bytes": 18734
+    },
+    "alt": "Unicorn Flooring brand detail photography"
+  },
+  {
+    "name": "unicorn-office-interior",
+    "large": {
+      "path": "images/services/unicorn-office-interior-large.webp",
+      "width": 1800,
+      "height": 1259,
+      "bytes": 197136
+    },
+    "small": {
+      "path": "images/services/unicorn-office-interior-small.webp",
+      "width": 1000,
+      "height": 699,
+      "bytes": 56374
+    },
+    "alt": "Unicorn Group office interior photography"
+  },
+  {
+    "name": "olivers-google-search-result",
+    "large": {
+      "path": "images/services/olivers-google-search-result-large.webp",
+      "width": 1024,
+      "height": 478,
+      "bytes": 49114
+    },
+    "small": {
+      "path": "images/services/olivers-google-search-result-small.webp",
+      "width": 700,
+      "height": 327,
+      "bytes": 13126
+    },
+    "alt": "Google Places search showing Oliver's Coffee Bar in second position"
+  },
+  {
+    "name": "review-funnel-example",
+    "large": {
+      "path": "images/services/review-funnel-example-large.webp",
+      "width": 626,
+      "height": 411,
+      "bytes": 25792
+    },
+    "small": {
+      "path": "images/services/review-funnel-example-small.webp",
+      "width": 420,
+      "height": 276,
+      "bytes": 7552
+    },
+    "alt": "Real branded five-star customer feedback screen"
+  }
+]
