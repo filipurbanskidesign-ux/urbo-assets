@@ -1,0 +1,818 @@
+[
+  {
+    "original": "image0.png",
+    "group": "olivers-coffee-bar",
+    "base_name": "olivers-mobile-menu",
+    "original_width": 1170,
+    "original_height": 2532,
+    "original_bytes": 5379109,
+    "variants": [
+      {
+        "label": "large",
+        "path": "images/olivers-coffee-bar/olivers-mobile-menu-large.webp",
+        "width": 900,
+        "height": 1948,
+        "bytes": 119720
+      },
+      {
+        "label": "small",
+        "path": "images/olivers-coffee-bar/olivers-mobile-menu-small.webp",
+        "width": 480,
+        "height": 1039,
+        "bytes": 58098
+      }
+    ]
+  },
+  {
+    "original": "image1.jpeg",
+    "group": "olivers-coffee-bar",
+    "base_name": "olivers-mobile-page",
+    "original_width": 1170,
+    "original_height": 2172,
+    "original_bytes": 375559,
+    "variants": [
+      {
+        "label": "large",
+        "path": "images/olivers-coffee-bar/olivers-mobile-page-large.webp",
+        "width": 900,
+        "height": 1671,
+        "bytes": 110982
+      },
+      {
+        "label": "small",
+        "path": "images/olivers-coffee-bar/olivers-mobile-page-small.webp",
+        "width": 480,
+        "height": 891,
+        "bytes": 55092
+      }
+    ]
+  },
+  {
+    "original": "mollys yard 2.png",
+    "group": "mollys-yard",
+    "base_name": "mollys-yard-2",
+    "original_width": 4500,
+    "original_height": 2813,
+    "original_bytes": 2556461,
+    "variants": [
+      {
+        "label": "large",
+        "path": "images/mollys-yard/mollys-yard-2-large.webp",
+        "width": 2400,
+        "height": 1500,
+        "bytes": 94912
+      },
+      {
+        "label": "small",
+        "path": "images/mollys-yard/mollys-yard-2-small.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 39450
+      }
+    ]
+  },
+  {
+    "original": "mollys yard 3.png",
+    "group": "mollys-yard",
+    "base_name": "mollys-yard-3",
+    "original_width": 4500,
+    "original_height": 2813,
+    "original_bytes": 2032574,
+    "variants": [
+      {
+        "label": "large",
+        "path": "images/mollys-yard/mollys-yard-3-large.webp",
+        "width": 2400,
+        "height": 1500,
+        "bytes": 92200
+      },
+      {
+        "label": "small",
+        "path": "images/mollys-yard/mollys-yard-3-small.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 38516
+      }
+    ]
+  },
+  {
+    "original": "mollys yard 4.png",
+    "group": "mollys-yard",
+    "base_name": "mollys-yard-4",
+    "original_width": 4500,
+    "original_height": 2813,
+    "original_bytes": 3047223,
+    "variants": [
+      {
+        "label": "large",
+        "path": "images/mollys-yard/mollys-yard-4-large.webp",
+        "width": 2400,
+        "height": 1500,
+        "bytes": 101926
+      },
+      {
+        "label": "small",
+        "path": "images/mollys-yard/mollys-yard-4-small.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 44158
+      }
+    ]
+  },
+  {
+    "original": "mollys yard 5.png",
+    "group": "mollys-yard",
+    "base_name": "mollys-yard-5",
+    "original_width": 4500,
+    "original_height": 2813,
+    "original_bytes": 2108941,
+    "variants": [
+      {
+        "label": "large",
+        "path": "images/mollys-yard/mollys-yard-5-large.webp",
+        "width": 2400,
+        "height": 1500,
+        "bytes": 125236
+      },
+      {
+        "label": "small",
+        "path": "images/mollys-yard/mollys-yard-5-small.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 51924
+      }
+    ]
+  },
+  {
+    "original": "mollys yard 6.png",
+    "group": "mollys-yard",
+    "base_name": "mollys-yard-6",
+    "original_width": 4500,
+    "original_height": 2813,
+    "original_bytes": 5751181,
+    "variants": [
+      {
+        "label": "large",
+        "path": "images/mollys-yard/mollys-yard-6-large.webp",
+        "width": 2400,
+        "height": 1500,
+        "bytes": 213686
+      },
+      {
+        "label": "small",
+        "path": "images/mollys-yard/mollys-yard-6-small.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 93452
+      }
+    ]
+  },
+  {
+    "original": "mollys yard 7.png",
+    "group": "mollys-yard",
+    "base_name": "mollys-yard-7",
+    "original_width": 4500,
+    "original_height": 2813,
+    "original_bytes": 1327771,
+    "variants": [
+      {
+        "label": "large",
+        "path": "images/mollys-yard/mollys-yard-7-large.webp",
+        "width": 2400,
+        "height": 1500,
+        "bytes": 75164
+      },
+      {
+        "label": "small",
+        "path": "images/mollys-yard/mollys-yard-7-small.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 29918
+      }
+    ]
+  },
+  {
+    "original": "mollys yard hero.png",
+    "group": "mollys-yard",
+    "base_name": "mollys-yard-homepage",
+    "original_width": 4500,
+    "original_height": 2813,
+    "original_bytes": 3046132,
+    "variants": [
+      {
+        "label": "large",
+        "path": "images/mollys-yard/mollys-yard-homepage-large.webp",
+        "width": 2400,
+        "height": 1500,
+        "bytes": 90768
+      },
+      {
+        "label": "small",
+        "path": "images/mollys-yard/mollys-yard-homepage-small.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 40272
+      }
+    ]
+  },
+  {
+    "original": "nine realms 2.png",
+    "group": "nine-realms",
+    "base_name": "nine-realms-2",
+    "original_width": 4500,
+    "original_height": 2813,
+    "original_bytes": 2607288,
+    "variants": [
+      {
+        "label": "large",
+        "path": "images/nine-realms/nine-realms-2-large.webp",
+        "width": 2400,
+        "height": 1500,
+        "bytes": 136358
+      },
+      {
+        "label": "small",
+        "path": "images/nine-realms/nine-realms-2-small.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 62154
+      }
+    ]
+  },
+  {
+    "original": "nine realms 3.png",
+    "group": "nine-realms",
+    "base_name": "nine-realms-3",
+    "original_width": 4500,
+    "original_height": 2813,
+    "original_bytes": 2381937,
+    "variants": [
+      {
+        "label": "large",
+        "path": "images/nine-realms/nine-realms-3-large.webp",
+        "width": 2400,
+        "height": 1500,
+        "bytes": 144340
+      },
+      {
+        "label": "small",
+        "path": "images/nine-realms/nine-realms-3-small.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 59214
+      }
+    ]
+  },
+  {
+    "original": "nine realms 4.png",
+    "group": "nine-realms",
+    "base_name": "nine-realms-4",
+    "original_width": 4500,
+    "original_height": 2813,
+    "original_bytes": 2460742,
+    "variants": [
+      {
+        "label": "large",
+        "path": "images/nine-realms/nine-realms-4-large.webp",
+        "width": 2400,
+        "height": 1500,
+        "bytes": 132046
+      },
+      {
+        "label": "small",
+        "path": "images/nine-realms/nine-realms-4-small.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 53806
+      }
+    ]
+  },
+  {
+    "original": "nine realms 5.png",
+    "group": "nine-realms",
+    "base_name": "nine-realms-5",
+    "original_width": 4500,
+    "original_height": 2813,
+    "original_bytes": 2620384,
+    "variants": [
+      {
+        "label": "large",
+        "path": "images/nine-realms/nine-realms-5-large.webp",
+        "width": 2400,
+        "height": 1500,
+        "bytes": 147822
+      },
+      {
+        "label": "small",
+        "path": "images/nine-realms/nine-realms-5-small.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 60118
+      }
+    ]
+  },
+  {
+    "original": "nine realms 6.png",
+    "group": "nine-realms",
+    "base_name": "nine-realms-6",
+    "original_width": 4500,
+    "original_height": 2813,
+    "original_bytes": 1896781,
+    "variants": [
+      {
+        "label": "large",
+        "path": "images/nine-realms/nine-realms-6-large.webp",
+        "width": 2400,
+        "height": 1500,
+        "bytes": 119786
+      },
+      {
+        "label": "small",
+        "path": "images/nine-realms/nine-realms-6-small.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 50540
+      }
+    ]
+  },
+  {
+    "original": "nine realms 7.png",
+    "group": "nine-realms",
+    "base_name": "nine-realms-7",
+    "original_width": 4500,
+    "original_height": 2813,
+    "original_bytes": 2071162,
+    "variants": [
+      {
+        "label": "large",
+        "path": "images/nine-realms/nine-realms-7-large.webp",
+        "width": 2400,
+        "height": 1500,
+        "bytes": 150334
+      },
+      {
+        "label": "small",
+        "path": "images/nine-realms/nine-realms-7-small.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 61224
+      }
+    ]
+  },
+  {
+    "original": "nine realms main.png",
+    "group": "nine-realms",
+    "base_name": "nine-realms-homepage",
+    "original_width": 4500,
+    "original_height": 2813,
+    "original_bytes": 2255438,
+    "variants": [
+      {
+        "label": "large",
+        "path": "images/nine-realms/nine-realms-homepage-large.webp",
+        "width": 2400,
+        "height": 1500,
+        "bytes": 75694
+      },
+      {
+        "label": "small",
+        "path": "images/nine-realms/nine-realms-homepage-small.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 34364
+      }
+    ]
+  },
+  {
+    "original": "nine reaoms 8.png",
+    "group": "nine-realms",
+    "base_name": "nine-realms-nine-reaoms-8",
+    "original_width": 4500,
+    "original_height": 2813,
+    "original_bytes": 1783181,
+    "variants": [
+      {
+        "label": "large",
+        "path": "images/nine-realms/nine-realms-nine-reaoms-8-large.webp",
+        "width": 2400,
+        "height": 1500,
+        "bytes": 114928
+      },
+      {
+        "label": "small",
+        "path": "images/nine-realms/nine-realms-nine-reaoms-8-small.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 47042
+      }
+    ]
+  },
+  {
+    "original": "olivers 2.png",
+    "group": "olivers-coffee-bar",
+    "base_name": "olivers-2",
+    "original_width": 4500,
+    "original_height": 2813,
+    "original_bytes": 2924939,
+    "variants": [
+      {
+        "label": "large",
+        "path": "images/olivers-coffee-bar/olivers-2-large.webp",
+        "width": 2400,
+        "height": 1500,
+        "bytes": 126112
+      },
+      {
+        "label": "small",
+        "path": "images/olivers-coffee-bar/olivers-2-small.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 58442
+      }
+    ]
+  },
+  {
+    "original": "olivers 3.png",
+    "group": "olivers-coffee-bar",
+    "base_name": "olivers-3",
+    "original_width": 4500,
+    "original_height": 2813,
+    "original_bytes": 3111229,
+    "variants": [
+      {
+        "label": "large",
+        "path": "images/olivers-coffee-bar/olivers-3-large.webp",
+        "width": 2400,
+        "height": 1500,
+        "bytes": 123248
+      },
+      {
+        "label": "small",
+        "path": "images/olivers-coffee-bar/olivers-3-small.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 55304
+      }
+    ]
+  },
+  {
+    "original": "olivers 4.png",
+    "group": "olivers-coffee-bar",
+    "base_name": "olivers-4",
+    "original_width": 4500,
+    "original_height": 2813,
+    "original_bytes": 2974875,
+    "variants": [
+      {
+        "label": "large",
+        "path": "images/olivers-coffee-bar/olivers-4-large.webp",
+        "width": 2400,
+        "height": 1500,
+        "bytes": 122022
+      },
+      {
+        "label": "small",
+        "path": "images/olivers-coffee-bar/olivers-4-small.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 54684
+      }
+    ]
+  },
+  {
+    "original": "olivers 5.png",
+    "group": "olivers-coffee-bar",
+    "base_name": "olivers-5",
+    "original_width": 4500,
+    "original_height": 2813,
+    "original_bytes": 2211627,
+    "variants": [
+      {
+        "label": "large",
+        "path": "images/olivers-coffee-bar/olivers-5-large.webp",
+        "width": 2400,
+        "height": 1500,
+        "bytes": 97612
+      },
+      {
+        "label": "small",
+        "path": "images/olivers-coffee-bar/olivers-5-small.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 43444
+      }
+    ]
+  },
+  {
+    "original": "olivers 6.png",
+    "group": "olivers-coffee-bar",
+    "base_name": "olivers-6",
+    "original_width": 4500,
+    "original_height": 2813,
+    "original_bytes": 3377860,
+    "variants": [
+      {
+        "label": "large",
+        "path": "images/olivers-coffee-bar/olivers-6-large.webp",
+        "width": 2400,
+        "height": 1500,
+        "bytes": 132544
+      },
+      {
+        "label": "small",
+        "path": "images/olivers-coffee-bar/olivers-6-small.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 57706
+      }
+    ]
+  },
+  {
+    "original": "olivers 7.png",
+    "group": "olivers-coffee-bar",
+    "base_name": "olivers-7",
+    "original_width": 4500,
+    "original_height": 2813,
+    "original_bytes": 6883509,
+    "variants": [
+      {
+        "label": "large",
+        "path": "images/olivers-coffee-bar/olivers-7-large.webp",
+        "width": 2400,
+        "height": 1500,
+        "bytes": 205026
+      },
+      {
+        "label": "small",
+        "path": "images/olivers-coffee-bar/olivers-7-small.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 96490
+      }
+    ]
+  },
+  {
+    "original": "olivers 8.png",
+    "group": "olivers-coffee-bar",
+    "base_name": "olivers-8",
+    "original_width": 4500,
+    "original_height": 2813,
+    "original_bytes": 3191660,
+    "variants": [
+      {
+        "label": "large",
+        "path": "images/olivers-coffee-bar/olivers-8-large.webp",
+        "width": 2400,
+        "height": 1500,
+        "bytes": 153148
+      },
+      {
+        "label": "small",
+        "path": "images/olivers-coffee-bar/olivers-8-small.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 63746
+      }
+    ]
+  },
+  {
+    "original": "skinny isaacs 3.png",
+    "group": "skinny-isaacs",
+    "base_name": "skinny-isaacs-3",
+    "original_width": 4500,
+    "original_height": 2813,
+    "original_bytes": 2255829,
+    "variants": [
+      {
+        "label": "large",
+        "path": "images/skinny-isaacs/skinny-isaacs-3-large.webp",
+        "width": 2400,
+        "height": 1500,
+        "bytes": 104952
+      },
+      {
+        "label": "small",
+        "path": "images/skinny-isaacs/skinny-isaacs-3-small.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 43904
+      }
+    ]
+  },
+  {
+    "original": "skinny isacs 2.png",
+    "group": "skinny-isaacs",
+    "base_name": "skinny-isaacs-2",
+    "original_width": 4500,
+    "original_height": 2813,
+    "original_bytes": 2027133,
+    "variants": [
+      {
+        "label": "large",
+        "path": "images/skinny-isaacs/skinny-isaacs-2-large.webp",
+        "width": 2400,
+        "height": 1500,
+        "bytes": 96778
+      },
+      {
+        "label": "small",
+        "path": "images/skinny-isaacs/skinny-isaacs-2-small.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 39842
+      }
+    ]
+  },
+  {
+    "original": "skinny isacs 5.png",
+    "group": "skinny-isaacs",
+    "base_name": "skinny-isaacs-5",
+    "original_width": 4500,
+    "original_height": 2813,
+    "original_bytes": 1603571,
+    "variants": [
+      {
+        "label": "large",
+        "path": "images/skinny-isaacs/skinny-isaacs-5-large.webp",
+        "width": 2400,
+        "height": 1500,
+        "bytes": 95486
+      },
+      {
+        "label": "small",
+        "path": "images/skinny-isaacs/skinny-isaacs-5-small.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 39158
+      }
+    ]
+  },
+  {
+    "original": "skinny isacs 6.png",
+    "group": "skinny-isaacs",
+    "base_name": "skinny-isaacs-6",
+    "original_width": 4500,
+    "original_height": 2813,
+    "original_bytes": 2083078,
+    "variants": [
+      {
+        "label": "large",
+        "path": "images/skinny-isaacs/skinny-isaacs-6-large.webp",
+        "width": 2400,
+        "height": 1500,
+        "bytes": 94058
+      },
+      {
+        "label": "small",
+        "path": "images/skinny-isaacs/skinny-isaacs-6-small.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 42206
+      }
+    ]
+  },
+  {
+    "original": "skinny isacs 7.png",
+    "group": "skinny-isaacs",
+    "base_name": "skinny-isaacs-7",
+    "original_width": 4500,
+    "original_height": 2813,
+    "original_bytes": 4804334,
+    "variants": [
+      {
+        "label": "large",
+        "path": "images/skinny-isaacs/skinny-isaacs-7-large.webp",
+        "width": 2400,
+        "height": 1500,
+        "bytes": 170540
+      },
+      {
+        "label": "small",
+        "path": "images/skinny-isaacs/skinny-isaacs-7-small.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 77578
+      }
+    ]
+  },
+  {
+    "original": "skinny isacs hero.png",
+    "group": "skinny-isaacs",
+    "base_name": "skinny-isaacs-homepage",
+    "original_width": 4500,
+    "original_height": 2813,
+    "original_bytes": 2692091,
+    "variants": [
+      {
+        "label": "large",
+        "path": "images/skinny-isaacs/skinny-isaacs-homepage-large.webp",
+        "width": 2400,
+        "height": 1500,
+        "bytes": 72270
+      },
+      {
+        "label": "small",
+        "path": "images/skinny-isaacs/skinny-isaacs-homepage-small.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 32708
+      }
+    ]
+  },
+  {
+    "original": "skinny issacs 4.png",
+    "group": "skinny-isaacs",
+    "base_name": "skinny-isaacs-4",
+    "original_width": 4500,
+    "original_height": 2813,
+    "original_bytes": 2141702,
+    "variants": [
+      {
+        "label": "large",
+        "path": "images/skinny-isaacs/skinny-isaacs-4-large.webp",
+        "width": 2400,
+        "height": 1500,
+        "bytes": 85746
+      },
+      {
+        "label": "small",
+        "path": "images/skinny-isaacs/skinny-isaacs-4-small.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 37852
+      }
+    ]
+  },
+  {
+    "original": "unicorn collage.png",
+    "group": "unicorn-group",
+    "base_name": "unicorn-collage",
+    "original_width": 3125,
+    "original_height": 1953,
+    "original_bytes": 7802698,
+    "variants": [
+      {
+        "label": "large",
+        "path": "images/unicorn-group/unicorn-collage-large.webp",
+        "width": 1800,
+        "height": 1125,
+        "bytes": 225062
+      },
+      {
+        "label": "small",
+        "path": "images/unicorn-group/unicorn-collage-small.webp",
+        "width": 900,
+        "height": 562,
+        "bytes": 84262
+      }
+    ]
+  },
+  {
+    "original": "Untitled design (1).png",
+    "group": "olivers-coffee-bar",
+    "base_name": "olivers-mobile-home",
+    "original_width": 1219,
+    "original_height": 2638,
+    "original_bytes": 1857902,
+    "variants": [
+      {
+        "label": "large",
+        "path": "images/olivers-coffee-bar/olivers-mobile-home-large.webp",
+        "width": 900,
+        "height": 1948,
+        "bytes": 117494
+      },
+      {
+        "label": "small",
+        "path": "images/olivers-coffee-bar/olivers-mobile-home-small.webp",
+        "width": 480,
+        "height": 1039,
+        "bytes": 58742
+      }
+    ]
+  },
+  {
+    "original": "Untitled design.png",
+    "group": "olivers-coffee-bar",
+    "base_name": "olivers-homepage",
+    "original_width": 4500,
+    "original_height": 2813,
+    "original_bytes": 5513006,
+    "variants": [
+      {
+        "label": "large",
+        "path": "images/olivers-coffee-bar/olivers-homepage-large.webp",
+        "width": 2400,
+        "height": 1500,
+        "bytes": 178088
+      },
+      {
+        "label": "small",
+        "path": "images/olivers-coffee-bar/olivers-homepage-small.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 81400
+      }
+    ]
+  }
+]
